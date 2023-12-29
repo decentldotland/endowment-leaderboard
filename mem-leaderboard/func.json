@@ -1,0 +1,7 @@
+{
+  "leaderboard": {},
+  "contributions": [],
+  "molecule_endpoints": {
+    "ota": "https://molecules-exm.herokuapp.com/ar-ota"
+  }
+}
